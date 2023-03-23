@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Girmiti
+ *
+ */
+module Training {
+}
